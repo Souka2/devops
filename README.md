@@ -3,4 +3,4 @@
 ![](images/devops.png)
 ##### 微服务示意图
 
-![](images\devops2.png)
+![](images/devops2.png)
